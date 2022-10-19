@@ -1,8 +1,8 @@
 this is my first line in b1
-added line in feature branch
+to create conflict
 hello
 new
 james
 times
 hello2
-hello3
+nametest
