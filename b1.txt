@@ -1,8 +1,8 @@
 this is my first line in b1
-to create conflict
+conflict created
 hello
 new
 james
-times
+!!!
 hello2
 nametest
